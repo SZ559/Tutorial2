@@ -1,0 +1,10 @@
+C:\Users\zhang\source\repos\Tutorial2\bin\Debug\Tutorial2.exe.config
+C:\Users\zhang\source\repos\Tutorial2\bin\Debug\Tutorial2.exe
+C:\Users\zhang\source\repos\Tutorial2\bin\Debug\Tutorial2.pdb
+C:\Users\zhang\source\repos\Tutorial2\obj\Debug\Tutorial2.csprojAssemblyReference.cache
+C:\Users\zhang\source\repos\Tutorial2\obj\Debug\Tutorial2.MathQuiz.resources
+C:\Users\zhang\source\repos\Tutorial2\obj\Debug\Tutorial2.Properties.Resources.resources
+C:\Users\zhang\source\repos\Tutorial2\obj\Debug\Tutorial2.csproj.GenerateResource.cache
+C:\Users\zhang\source\repos\Tutorial2\obj\Debug\Tutorial2.csproj.CoreCompileInputs.cache
+C:\Users\zhang\source\repos\Tutorial2\obj\Debug\Tutorial2.exe
+C:\Users\zhang\source\repos\Tutorial2\obj\Debug\Tutorial2.pdb
